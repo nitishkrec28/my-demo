@@ -1,4 +1,4 @@
 # my-demo
 This is my first Git Repository.
 <br>
-Author- Nitish Kumar
+Author- Nitish Kumar(CSE)
